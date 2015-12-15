@@ -1,1 +1,6 @@
+#one search expression per line
 *.dat
+results/
+*.pyc
+*.o
+build/
